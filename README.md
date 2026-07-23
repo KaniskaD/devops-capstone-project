@@ -1,4 +1,8 @@
-# DevOps Capstone Template
+# devops-capstone-project
+
+This repository contains the IBM DevOps and Software Engineering Capstone Project.
+
+The project develops a Customer Accounts RESTful microservice using Flask following Agile, Test Driven Development (TDD), Continuous Integration (CI), Continuous Delivery (CD), Docker, Kubernetes, OpenShift, and Tekton pipelines.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
