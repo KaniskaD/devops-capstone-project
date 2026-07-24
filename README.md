@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/KaniskaD/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This repository contains the IBM DevOps and Software Engineering Capstone Project.
 
 The project develops a Customer Accounts RESTful microservice using Flask following Agile, Test Driven Development (TDD), Continuous Integration (CI), Continuous Delivery (CD), Docker, Kubernetes, OpenShift, and Tekton pipelines.
