@@ -11,7 +11,7 @@ Flask-Talisman
 # Runtime dependencies
 gunicorn==20.1.0
 honcho==1.1.0
-
+Flask-Cors
 # Code quality
 pylint==2.14.0
 flake8==4.0.1
